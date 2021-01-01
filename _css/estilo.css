@@ -100,7 +100,7 @@ header#cabecalho-artigo h3 {
 }
 
 aside#lateral {
-	display: block;
+	display: inline-block;
 	width: 350px;
 	float: right;
 	background-color: #dddddd;
@@ -156,12 +156,14 @@ a:hover {
 /* Formatação do Cabeçalho imagens */
 
 header#cabecalho img#icone {
+
 	position: absolute;
-	left: 780px;
-	top: 70px;
+	right: 380px;
+	top: 60px;
 }
 
 header#cabecalho {
+	margin-top: 50px;
 	border-bottom: 1px #606060 solid;
 	height: 150px;
 	background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px;

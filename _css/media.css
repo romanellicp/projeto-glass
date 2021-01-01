@@ -24,3 +24,11 @@ video#filme {
 	width: 450px;
 	height: 400px;
 }
+
+video#recente {
+	
+	left: 85px;
+	top: -40px;
+	width: 100px;
+	height: 100px;
+}
