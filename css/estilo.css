@@ -164,10 +164,10 @@ header#cabecalho img#icone {
 }
 
 header#cabecalho {
-	margin-top: 50px;
+	margin-top: 70px;
 	border-bottom: 1px #606060 solid;
 	height: 150px;
-	background: url("../imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
+	background: url("../imagens/glass-logo-peq.jpg") no-repeat 0px 90px;
 }
 
 /* Formatação do Cabeçalho textos */
@@ -237,8 +237,8 @@ nav#menu ol {
 	list-style: none;
 	text-transform: uppercase;
 	position: absolute;
-	top: -20px;
-	left: 300px;
+	top: 0px;
+	left: 250px;
 }
 
 /* Formatação do container das Letras */
@@ -247,7 +247,7 @@ nav#menu li {
 	display: inline-block;
 	background-color: #dddddd;
 	padding: 10px;
-	margin: 2px;
+	margin: 0px;
 	transition: background-color 1s;
 }
 
